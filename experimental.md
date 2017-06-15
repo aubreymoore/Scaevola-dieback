@@ -1,11 +1,13 @@
-* auto-gen TOC:
-{:toc}
 
-On June 8, 2017, Phoebe Wall was contacted by Ilene Quitugua, Guam Visitor Bureau,and Landscape Management Systems (LMS) to investigate dieback of **Scaevola taccada**(nanasu in Chamorro; naupaka in Hawaiian) These plants are grown as ornamentals
+
+On June 8, 2017, Phoebe Wall was contacted by Ilene Quitugua, Guam Visitor Bureau,and Landscape Management Systems (LMS) to investigate dieback of *Scaevola taccada* (nanasu in Chamorro; naupaka in Hawaiian) These plants are grown as ornamentals
 throughout Tumon Bay.  Plant samples were collected to determine if the dieback is a result of insect attack. A species of bark beetle (subfamily Scolytinae) and several species of termites were extracted from the original samples. It was originally thought that the termites were the probable cause of the dieback, but it is now thought that the the bark beetles (plus possible fungal symbionts) are the primary pest with the termites moving in as the plants die.
 
 On June 12, 2017 Wall and Moore collected a second batch of samples with the assistance of Benson from LMS. Many bark beetles, apparently from a single species, werecollected from these samples. Insect specimens were preserved and photographed and are
 currently awaiting identification by specialist taxonomists. Species determination of theinsects will facilitate recommendation of control actions.
+
+* auto-gen TOC:
+{:toc}
 
 # Damage Symptoms
 
@@ -21,7 +23,7 @@ Plants suddenly wilt and die.
 Numerous minute bark beetles were extracted from dead and dying branches. All appear to be from a single species. This beetle is small, 1.2 mm body length, and it has a mass of golden colored hair on its face.
 
 ## Identification
-An iNaturalist observation was posted at: https://www.inaturalist.org/observations/6632409. Specimens sent to Dr. Jiri Hulcr, University of Florida, on June 15, 2017.
+An iNaturalist observation was posted at: <https://www.inaturalist.org/observations/6632409>. Specimens sent to Dr. Jiri Hulcr, University of Florida, on June 15, 2017.
 
 ## Images
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/62580975@N02/albums/72157682026200944" title="Bark Beetle attacking Scaevola"><img src="https://c1.staticflickr.com/5/4211/34903682210_79cfb00978_n.jpg" width="320" height="213" alt="Bark Beetle attacking Scaevola"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
