@@ -33,8 +33,49 @@ An iNaturalist observation was posted at: <https://www.inaturalist.org/observati
 1. *Scolytogenes nubilus* ex *Scaevola* in Caroline Islands and Marshall Islands. <http://www.barkbeetles.info/regional_chklist_target_species.php?lookUp=8545&image=USNMENT01066624_Cryphalomorphus_nubilis_dorsal&curPage=0>
 2. The bark and ambrosia beetles of Kiribati, South Pacific (Col., Scolytidae and Platypodidae).  RA Beaver - Entomologist’s Monthly Magazine, 1990.  *Ptilopodius tarawai* sp. nov., is described from dead shoots of Scaevola.
 3. In Insects of Micronesia 18(1) there is one species of scolytid collected from Scaevola: *Cryphalomorphus nubilus*.
-4. Mueller=Dumbois, D. and F. R. Fosberg 1998.
-"A major shift can be seen on maps among the *Scaevola* scrub, which in 1961 formed a continuous belt on the west side of Layson. By 1984 it had declined by dieback into narrow, discontinuous strips along the west coast, while the *Scavola* patches became enlarges in the northeastern part of the island.It appears to be a stand-level process in population dynamics of *Scavola* that is regulated by external as well as internal (age-related) stresses." 
+4. Mueller=Dumbois, D. and F. R. Fosberg 1998. Vegetation of the Tropical Pacific Islands.
+"A major shift can be seen on maps among the *Scaevola* scrub, which in 1961 formed a continuous belt on the west side of Laysan. By 1984 it had declined by dieback into narrow, discontinuous strips along the west coast, while the *Scavola* patches became enlarges in the northeastern part of the island.It appears to be a stand-level process in population dynamics of *Scavola* that is regulated by external as well as internal (age-related) stresses." 
+Gagne, W. 
+C. 
+1984ms. 
+Trip-report: 
+Biological   investigations 
+of 
+Laysan's 
+hypersaline 
+lake   and   related   aspects. 
+Admin. 
+Rep., 
+U. 
+S.  Fish.   Wildl. 
+Service, 
+Honolulu, 
+HI. 
+17 
+pp. 
+[First 
+report 
+to 
+mention 
+Scarvola 
+dieback 
+which 
+is 
+affecting 
+seabirds. 
+Also 
+reports  on 
+guano 
+samples 
+checked  for  presence 
+of 
+I'isoniu, 
+and 
+gives 
+life  history  of  brine  flies, 
+an 
+important  food 
+of Laysan  Duck.] 
 
 # Termites
 
