@@ -43,6 +43,6 @@ At least three termite species were collected from dead nanasu twigs. In additio
 An iNaturalist observation record is available at: <http://www.inaturalist.org/observations/6554162>. 
 
 ## Images
-<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/62580975@N02/albums/72157683010104530" title="Scaevola termite"><img src="https://c1.staticflickr.com/5/4204/35128248322_13398e77d3_m.jpg" width="240" height="95" alt="Scaevola termite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/62580975@N02/albums/72157683010104530" title="Scaevola termite"><img src="https://c1.staticflickr.com/5/4204/35128248322_13398e77d3_m.jpg" width="240" height="95" alt="Scaevola termite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
