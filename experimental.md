@@ -32,4 +32,15 @@ http://www.barkbeetles.info/regional_chklist_target_species.php?lookUp=8545&imag
 2. The bark and ambrosia beetles of Kiribati, South Pacific (Col., Scolytidae and Platypodidae).  RA Beaver - Entomologist’s Monthly Magazine, 1990.  Ptilopodius tarawai sp. nov., is described from dead shoots of Scaevola.
 3. In Insects of Micronesia 18(1) there is one species of scolytid collected from Scaevola: Cryphalomorphus nubilus.
 
+# Termites
+
+## Description
+At least three termite species were collected from dead nanasu twigs. In addition to the common Coptotermes and Nasutitermes is a very small species (alate body length 4.4 mm).
+
+## Identification
+An iNaturalist observation record is available at: http://www.inaturalist.org/observations/6554162. 
+
+## Images
+A Flickr album containing images is available at:
+
 
