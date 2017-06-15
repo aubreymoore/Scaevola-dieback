@@ -27,32 +27,9 @@ An iNaturalist observation was posted at: https://www.inaturalist.org/observatio
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/62580975@N02/albums/72157682026200944" title="Bark Beetle attacking Scaevola"><img src="https://c1.staticflickr.com/5/4211/34903682210_79cfb00978_n.jpg" width="320" height="213" alt="Bark Beetle attacking Scaevola"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Notes
-1. Scolytogenes nubilus
-ex
-Scaevola
-in Caroline Islands and Marshall Islands.
-http://www.barkbeetles.info/regional_chklist_target_species.php?lookUp=
-8545&image=USNMENT01066624_Cryphalomorphus_nubilis_dorsal&curPage=0
-2.
-The bark and ambrosia beetles of Kiribati, South Pacific (Col., Scolytidae
-and Platypodidae).  RA Beaver - Entomologist’s Monthly Magazine,
-1990.
-Three species of Coleoptera, the scolytids
-Xyleborus perforans
-and
-X. similis
-and
-one platypodid
-Crossotarsus externedentatus
-, are recorded from Kiribati. Another
-scolytid,
-Ptilopodius tarawai
-sp. nov., is described from dead shoots of
-Scaevola
-.
-3. In Insects of Micronesia 18(1) there is one species of scolytid collected from
-Scaevola
-:
-Cryphalomorphus nubilus.
+1. Scolytogenes nubilus ex Scaevola in Caroline Islands and Marshall Islands.
+http://www.barkbeetles.info/regional_chklist_target_species.php?lookUp=8545&image=USNMENT01066624_Cryphalomorphus_nubilis_dorsal&curPage=0
+2. The bark and ambrosia beetles of Kiribati, South Pacific (Col., Scolytidae and Platypodidae).  RA Beaver - Entomologist’s Monthly Magazine, 1990.  Ptilopodius tarawai sp. nov., is described from dead shoots of Scaevola.
+3. In Insects of Micronesia 18(1) there is one species of scolytid collected from Scaevola: Cryphalomorphus nubilus.
 
 
