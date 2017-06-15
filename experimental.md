@@ -35,7 +35,7 @@ An iNaturalist observation was posted at: <https://www.inaturalist.org/observati
 3. In Insects of Micronesia 18(1) there is one species of scolytid collected from Scaevola: *Cryphalomorphus nubilus*.
 4. Mueller=Dumbois, D. and F. R. Fosberg 1998. Vegetation of the Tropical Pacific Islands.
 "A major shift can be seen on maps among the *Scaevola* scrub, which in 1961 formed a continuous belt on the west side of Laysan. By 1984 it had declined by dieback into narrow, discontinuous strips along the west coast, while the *Scavola* patches became enlarges in the northeastern part of the island.It appears to be a stand-level process in population dynamics of *Scavola* that is regulated by external as well as internal (age-related) stresses." 
-Gagne, W. 
+5. Gagne, W. 
 C. 
 1984ms. 
 Trip-report: 
