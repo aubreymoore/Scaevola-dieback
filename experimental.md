@@ -6,7 +6,7 @@ throughout Tumon Bay.  Plant samples were collected to determine if the dieback 
 On June 12, 2017 Wall and Moore collected a second batch of samples with the assistance of Benson from LMS. Many bark beetles, apparently from a single species, were collected from these samples. Insect specimens were preserved and photographed and are
 currently awaiting identification by specialist taxonomists. Species determination of theinsects will facilitate recommendation of control actions.
 
-### Table of Contents
+**Table of Contents**
 * auto-gen TOC:
 {:toc}
 
