@@ -1,6 +1,6 @@
 
 
-On June 8, 2017, Phoebe Wall was contacted by Ilene Quitugua, Guam Visitor Bureau, and Landscape Management Systems (LMS) to investigate dieback of *Scaevola taccada* (nanasu in Chamorro; naupaka in Hawaiian) These plants are grown as ornamentals
+On June 8, 2017, Phoebe Wall was contacted by Ilene Quitugua, Guam Visitor Bureau, and Landscape Management Systems (LMS) to investigate dieback of *Scaevola taccada* (nanasu in Chamorro; naupaka in Hawaiian). These plants are grown as ornamentals
 throughout Tumon Bay.  Plant samples were collected to determine if the dieback is a result of insect attack. A species of bark beetle (subfamily Scolytinae) and several species of termites were extracted from the original samples. It was originally thought that the termites were the probable cause of the dieback, but it is now thought that the the bark beetles (plus possible fungal symbionts) are the primary pest with the termites moving in as the plants die.
 
 On June 12, 2017 Wall and Moore collected a second batch of samples with the assistance of Benson from LMS. Many bark beetles, apparently from a single species, were collected from these samples. Insect specimens were preserved and photographed and are
