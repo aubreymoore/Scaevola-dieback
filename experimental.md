@@ -27,15 +27,15 @@ Numerous minute bark beetles were extracted from dead and dying branches. All ap
 An iNaturalist observation was posted at: <https://www.inaturalist.org/observations/6632409>. Specimens sent to Dr. Jiri Hulcr, University of Florida, on June 15, 2017.
 
 Based solely on images, Dr. Hulcr suggests that the beetle is a species of *Pityophthoros*:
-```text
+
 Email from Jiri Hulcr to Aubrey Moore, June 18, 2017:
 
-It does indeed look like a Pityophthorus of some sort. Which is interesting: that is a nightmare of a genus, composed of dozens of species which are difficult to identify. Species outside of the continental US and Europe may not be identifiable at all,  but I will postpone that judgement until after I have a chance to see the individuals that you sent.
+> It does indeed look like a Pityophthorus of some sort. Which is interesting: that is a nightmare of a genus, composed of dozens of species which are difficult to identify. Species outside of the continental US and Europe may not be identifiable at all,  but I will postpone that judgement until after I have a chance to see the individuals that you sent.
 
-Nearly all Pityophthorus are harmless little things. There is one species in California that attacks live twigs of pines, and thent ehre is the big one: Pityophthorus juglandis, a recently emerged major pest of walnuts. Besides these two, no pityophthorus is known as a pest of healthy plants.
+> Nearly all Pityophthorus are harmless little things. There is one species in California that attacks live twigs of pines, and thent ehre is the big one: Pityophthorus juglandis, a recently emerged major pest of walnuts. Besides these two, no pityophthorus is known as a pest of healthy plants.
 
-Do you know more about the health status of the attacked bushes? Any external or preexisting condition? Drought or flooding, excessive irrigation, too much salt, or pesticide runoff?
-```
+> Do you know more about the health status of the attacked bushes? Any external or preexisting condition? Drought or flooding, excessive irrigation, too much salt, or pesticide runoff?
+
 
 ## Images
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/62580975@N02/albums/72157682026200944" title="Bark Beetle attacking Scaevola"><img src="https://c1.staticflickr.com/5/4211/34903682210_79cfb00978_n.jpg" width="320" height="213" alt="Bark Beetle attacking Scaevola"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
