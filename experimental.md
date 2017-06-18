@@ -26,7 +26,7 @@ Numerous minute bark beetles were extracted from dead and dying branches. All ap
 ## Identification
 An iNaturalist observation was posted at: <https://www.inaturalist.org/observations/6632409>. Specimens sent to Dr. Jiri Hulcr, University of Florida, on June 15, 2017.
 
-Based solely on images, Dr. Hulcr suggests that the beetle is a species of *Pityophthorus*:
+Based solely on images, Dr. Hulcr suggests that the beetle may be a species of *Pityophthorus*:
 
 > Email from Jiri Hulcr to Aubrey Moore, June 18, 2017:
 
