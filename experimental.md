@@ -27,7 +27,7 @@ Numerous minute bark beetles were extracted from dead and dying branches. All ap
 An iNaturalist observation was posted at: <https://www.inaturalist.org/observations/6632409>. Specimens sent to Dr. Jiri Hulcr, University of Florida, on June 15, 2017.
 
 Based solely on images, Dr. Hulcr suggests that the beetle is a species of *Pityophthoros*:
-```
+```text
 Email from Jiri Hulcr to Aubrey Moore, June 18, 2017:
 
 It does indeed look like a Pityophthorus of some sort. Which is interesting: that is a nightmare of a genus, composed of dozens of species which are difficult to identify. Species outside of the continental US and Europe may not be identifiable at all,  but I will postpone that judgement until after I have a chance to see the individuals that you sent.
