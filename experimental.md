@@ -28,11 +28,11 @@ An iNaturalist observation was posted at: <https://www.inaturalist.org/observati
 
 Based solely on images, Dr. Hulcr suggests that the beetle is a species of *Pityophthoros*:
 
-Email from Jiri Hulcr to Aubrey Moore, June 18, 2017:
+> Email from Jiri Hulcr to Aubrey Moore, June 18, 2017:
 
-> It does indeed look like a Pityophthorus of some sort. Which is interesting: that is a nightmare of a genus, composed of dozens of species which are difficult to identify. Species outside of the continental US and Europe may not be identifiable at all,  but I will postpone that judgement until after I have a chance to see the individuals that you sent.
+> It does indeed look like a *Pityophthorus* of some sort. Which is interesting: that is a nightmare of a genus, composed of dozens of species which are difficult to identify. Species outside of the continental US and Europe may not be identifiable at all,  but I will postpone that judgement until after I have a chance to see the individuals that you sent.
 
-> Nearly all Pityophthorus are harmless little things. There is one species in California that attacks live twigs of pines, and thent ehre is the big one: Pityophthorus juglandis, a recently emerged major pest of walnuts. Besides these two, no pityophthorus is known as a pest of healthy plants.
+> Nearly all Pityophthorus are harmless little things. There is one species in California that attacks live twigs of pines, and then there is the big one: *Pityophthorus juglandis*, a recently emerged major pest of walnuts. Besides these two, no *Pityophthorus* is known as a pest of healthy plants.
 
 > Do you know more about the health status of the attacked bushes? Any external or preexisting condition? Drought or flooding, excessive irrigation, too much salt, or pesticide runoff?
 
