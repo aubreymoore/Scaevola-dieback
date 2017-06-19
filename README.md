@@ -88,7 +88,7 @@ life  history  of  brine  flies,
 an 
 important  food 
 of Laysan  Duck.] 
-6. In Insects of Micronesia 18(1)), Wood describes 3 species of *Eidophelus* from Micronesia. He says these "superficially superficially  resemble  certain  species of *Pityophthorus*".
+6. In Insects of Micronesia 18(1)), Wood describes 3 species of *Eidophelus* from Micronesia. He says these "superficially  resemble certain species of *Pityophthorus*".
 
 # Termites
 
