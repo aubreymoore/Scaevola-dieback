@@ -100,4 +100,11 @@ An iNaturalist observation record is available at: <http://www.inaturalist.org/o
 ## Images
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/62580975@N02/albums/72157683010104530" title="Scaevola termite"><img src="https://c1.staticflickr.com/5/4204/35128248322_13398e77d3_m.jpg" width="240" height="95" alt="Scaevola termite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+# Chronology
+* June  3, 2017 - *Scaevola* dieback detected in Tumon Bay by Ilene Quitugua.
+* June  8, 2017 - Plant samples collected by Aubrey Moore (UOG), Phoebe All (UOG), Denson (LMS)
+* June 15, 2017 - Bark beetle samples dent by DHL to Dr. Jiri Hulcr, U Florida, for identification.
+* June 19, 2017 - Meeting at Guam Vistor Bureau: Aubrey Moore, Russell Campbell, Ilene Quitugua, Roland Quitugua, Denson, Doris Ada. Clint Ridgell (PNC News) interviewed people after the meeting
+
+
 
