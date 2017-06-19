@@ -1,14 +1,15 @@
-
-
-On June 8, 2017, Phoebe Wall was contacted by Ilene Quitugua, Guam Visitor Bureau, and Landscape Management Systems (LMS) to investigate dieback of *Scaevola taccada* (nanasu in Chamorro; naupaka in Hawaiian). These plants are grown as ornamentals
-throughout Tumon Bay.  Plant samples were collected to determine if the dieback is a result of insect attack. A species of bark beetle (subfamily Scolytinae) and several species of termites were extracted from the original samples. It was originally thought that the termites were the probable cause of the dieback, but it is now thought that the the bark beetles (plus possible fungal symbionts) are the primary pest with the termites moving in as the plants die.
-
-On June 12, 2017 Wall and Moore collected a second batch of samples with the assistance of Denson from LMS. Many bark beetles, apparently from a single species, were collected from these samples. Insect specimens were preserved and photographed and are
-currently awaiting identification by specialist taxonomists. Species determination of theinsects will facilitate recommendation of control actions.
-
 **Table of Contents**
 * auto-gen TOC:
 {:toc}
+
+# Background
+
+On June 8, 2017, Phoebe Wall was contacted by Ilene Quitugua, Guam Visitor Bureau, and Landscape Management Systems (LMS) to investigate dieback of *Scaevola taccada* (nanasu in Chamorro; naupaka in Hawaiian). *S. taccada* is a native shrub on Guam and many tropical Pacific Islands. It is a major component of the beach strand ecosystem and it also grows on karst coastlines. Nanasu has been grown as a hardy, low maintenance ornamental hedge plant throughout Tumon Bay for at least twenty years.  
+
+Plant samples were collected to determine if the dieback is a result of insect attack. A species of bark beetle (subfamily Scolytinae) and several species of termites were extracted from the original samples. It was originally thought that the termites were the probable cause of the dieback, but it is now thought that the the bark beetles (plus possible fungal symbionts) are the primary pest with the termites moving in as the plants die.
+
+On June 12, 2017 Wall and Moore collected a second batch of samples with the assistance of Denson from LMS. Many bark beetles, apparently from a single species, were collected from these samples. Insect specimens were preserved and photographed and are
+currently awaiting identification by specialist taxonomists. Species determination of the insects will facilitate recommendation of control actions.
 
 # Damage Symptoms
 
