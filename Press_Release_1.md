@@ -21,7 +21,9 @@ Or, we may have the wrong suspect. The plot thickens as the *Scaevola* dieback i
 
 ### References
 
-CABI, 2017. Scaevola taccada [original text by Julissa Rojas-Sandoval and Pedro Acevedo-Rodríguez]. In: Invasive Species Compendium. Wallingford, UK: CAB International. Available online at http://www.cabi.org/isc/datasheet/48817
+Bright, D. E. 1992. Synopsis of the genus *Hemicryphalus* SCHEDL with descriptions of four new species from Borneo (Coleoptera:  Scolytidae). Koleopterologische Rundschau 62. p. 183-190.
+
+CABI, 2017. *Scaevola taccada* [original text by Julissa Rojas-Sandoval and Pedro Acevedo-Rodríguez]. In: Invasive Species Compendium. Wallingford, UK: CAB International. Available online at http://www.cabi.org/isc/datasheet/48817
 
 Wood, S. L. 1960. Coleoptera: Platypodidae and Scolytidae. Insects of Micronesia 18(1). Bishop Museum, Honolulu. Available online at http://hbs.bishopmuseum.org/pubs-online/pdf/iom18-1.pdf
 
