@@ -106,6 +106,7 @@ An iNaturalist observation record is available at: <http://www.inaturalist.org/o
 * June  8, 2017 - Plant samples collected by Aubrey Moore (UOG), Phoebe All (UOG), Denson (LMS)
 * June 15, 2017 - Bark beetle samples dent by DHL to Dr. Jiri Hulcr, U Florida, for identification.
 * June 19, 2017 - Meeting at Guam Vistor Bureau: Aubrey Moore, Russell Campbell, Ilene Quitugua, Roland Quitugua, Denson, Doris Ada. Clynt Ridgell (PNC News) interviewed people after the meeting
+* June 22, 2017 - [Press Release](https://github.com/aubreymoore/Scaevola-dieback/blob/master/Press_Release_1.md)
 
 
 
