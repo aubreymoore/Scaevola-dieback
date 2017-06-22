@@ -21,7 +21,7 @@ Or, we may have the wrong suspect. The plot thickens as the *Scaevola* dieback i
 
 ### References
 
-Bright, D. E. 1992. Synopsis of the genus *Hemicryphalus* SCHEDL with descriptions of four new species from Borneo (Coleoptera:  Scolytidae). Koleopterologische Rundschau 62. p. 183-190.
+Bright, D. E. 1992. Synopsis of the genus *Hemicryphalus* SCHEDL with descriptions of four new species from Borneo (Coleoptera:  Scolytidae). Koleopterologische Rundschau 62. p. 183-190. Available online at http://www.zobodat.at/pdf/KOR_62_1992_0183-0190.pdf
 
 CABI, 2017. *Scaevola taccada* [original text by Julissa Rojas-Sandoval and Pedro Acevedo-Rodríguez]. In: Invasive Species Compendium. Wallingford, UK: CAB International. Available online at http://www.cabi.org/isc/datasheet/48817
 
