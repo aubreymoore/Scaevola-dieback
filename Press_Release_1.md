@@ -24,3 +24,7 @@ Or, we may have the wrong suspect. The plot thickens as the *Scaevola* dieback i
 CABI, 2017. Scaevola taccada [original text by Julissa Rojas-Sandoval and Pedro Acevedo-Rodríguez]. In: Invasive Species Compendium. Wallingford, UK: CAB International. Available online at http://www.cabi.org/isc/datasheet/48817
 
 Wood, S. L. 1960. Coleoptera: Platypodidae and Scolytidae. Insects of Micronesia 18(1). Bishop Museum, Honolulu. Available online at http://hbs.bishopmuseum.org/pubs-online/pdf/iom18-1.pdf
+
+### Images
+
+Images of *Hemicryphalus argutus* are publicly available from Flickr at https://flic.kr/s/aHskX3hkFN
